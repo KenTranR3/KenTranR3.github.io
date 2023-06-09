@@ -5,17 +5,16 @@ layout: default
 <img src="./assets/images/avatar.jpeg"  width="20%" height="20%">
 
 
-I am a Ph.D. student in the research group [**DistriNet**](https://distrinet.cs.kuleuven.be/) at the Computer Science department of the **Katholieke Universiteit Leuven (KU Leuven)**, under the supervision of [**Prof. Wouter Joosen**](https://distrinet.cs.kuleuven.be/people/WouterJoosen).
-My research focuses include various subjects in Computer and System Security, mostly in Software Security, Computer and Multimedia Forensics, Malware Analysis, Mobile Security, Privacy.
-I obtained a Diplôme d'ingénieur (Master of Science in Engineering) **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My Master's thesis is about the Memory Forensics, under the supervision of [**Prof. Davide Balzarotti**](http://s3.eurecom.fr/~balzarot/).
-I am the founder of [**Computer Security Club**](https://www.facebook.com/hcmus.compsec.club) at University of Science, VNU-HCM. I sometime play CTF with codename **pakkunandy** and I also host HCMUS-CTF every year.
+I am currently a Junior at [**University Of Natural Science**](https://www.hcmus.edu.vn/) majoring in [**Information Technology**](https://www.fit.hcmus.edu.vn/), I am also studying at [**Université Claude Bernard Lyon 1**](https://www.univ-lyon1.fr/en) (double degree).
+My research focuses in Information Security/Cyber Security, mostly in Web and Software Security, although I am majoring in Information Technology, however I am always self-learning Information Security/CyberSecurity on Google and others learning sites.
+In the near future, I am hoping to be an pentester(penetration testing) or an malware analysis.
 
 # Contact Information
-* **Email**   : anh-duy.tran (at) kuleuven (dot) be
-* **Resume**  : [PDF](./assets/pdf/Anh-Duy-Tran-CV.pdf) (please email me for full version)
-* **Twitter** : [@pakkunandy](https://twitter.com/pakkunandy)
-* **Linkedin**: [Anh Duy TRAN](https://www.linkedin.com/in/anh-duy-tran/)
-* **Github**  : [pakkunandy](https://github.com/pakkunandy)
+* **Email**   : quan091301@gmail.com
+* **Resume**  : [PDF](./assets/pdf/Tran Minh Quan CV.pdf)
+* **Linkedin**: [Minh-Quan Tran](https://www.linkedin.com/in/quantran1309/)
+* **Github**  : [KenTranR3](https://github.com/KenTranR3)
+* **Website**  : [Minh-Quan Tran](https://KenTranR3.github.io/)
 
 # Research
 My research interests include
