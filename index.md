@@ -34,3 +34,14 @@ High school tutor (10/2020 – 02/2021)
 * Top 10 team in HCMUS CTF 2022, a competition organized by VNU-HCM University of Science (2022).
 * Bronze Medal in Ho Chi Minh Mathematical Olympiad 30/4 for Grade 10 (2018).
 
+# Projects
+Gear PC Java Application
+* Gear PC is a school project written in Java, Gear PC is an shopping application which buy and sell electronics devices (https://github.com/KenTranR3/GearPC-Java-App)
+* My Responsibilities: 
+- Create and connect to remote database.
+- Create chat for Admin and User using multithreading and sockets.
+* Technologies use: 
+- Frontend: Java
+- Backend: Java, MySQL Workbench
+- IDE: Intellj IDEA
+- Framework: JavaFX, Maven
