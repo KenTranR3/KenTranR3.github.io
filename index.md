@@ -38,10 +38,10 @@ High school tutor (10/2020 – 02/2021)
 Gear PC Java Application
 * Gear PC is a school project written in Java, Gear PC is an shopping application which buy and sell electronics devices (https://github.com/KenTranR3/GearPC-Java-App)
 * My Responsibilities: 
-- Create and connect to remote database.
-- Create chat for Admin and User using multithreading and sockets.
+-- Create and connect to remote database.
+-- Create chat for Admin and User using multithreading and sockets.
 * Technologies use: 
-- Frontend: Java
-- Backend: Java, MySQL Workbench
-- IDE: Intellj IDEA
-- Framework: JavaFX, Maven
+-- Frontend: Java
+-- Backend: Java, MySQL Workbench
+-- IDE: Intellj IDEA
+-- Framework: JavaFX, Maven
