@@ -17,7 +17,7 @@ In the near future, I am hoping to be an pentester(penetration testing) or an ma
 * **Website**  : [Minh-Quan Tran](https://KenTranR3.github.io/)
 
 # Research
-My research interests include
+My research interests
 
 * Secure Software Development
 * Computer and Multimedia Forensics.
