@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<!-- ![Avatar](./assets/images/avatar.jpeg) -->
-<img src="./assets/images/avatar.jpeg"  width="30%" height="20%">
+<img src="./assets/images/avatar.jpeg"  width="20%" height="20%">
 
 <!-- I'm **Anh Duy TRAN (MSE, CHFI)**. I am a Master (MSE) in **Communication System Security** at [**EURECOM**](https://www.eurecom.fr/en) and [**Télécom Paris**](https://www.telecom-paris.fr/en/home) in France. My research focuses include many subjects in Computer and System Security, mostly in **Computer Forensics**, **Mobile System Security, Privacy** and **Software Security**. I work to help organizations to inspect digital evidence in the cyber-crime investigation process, to design secured systems and software.  -->
 
