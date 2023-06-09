@@ -17,57 +17,20 @@ In the near future, I am hoping to be an pentester(penetration testing) or an ma
 * **Website**  : [Minh-Quan Tran](https://KenTranR3.github.io/)
 
 # Research
-My research interests
+My research interests involve:
 
-* Secure Software Development
-* Computer and Multimedia Forensics.
-* Mobile System Security and Privacy.
-* Software Security.
-* Social Engineering.
+* Web/Software Development.
+* Web/Software Security.
+* Cryptography.
 
-My research style is interdisciplinary in general. I am leveraging many techniques and knowledge from many domains to tackle real-world security-related problems and design secured system. I am currently involved in Multimemdia Verification projects with [Prof. Dang-Nguyen Duc-Tien](https://dnductien.github.io/). 
-
-# Teaching
-Teaching assistant at imec-DistriNet, KU Leuven
-* Software Architecture
-
-Lecturer and Teaching assistant at Falculty of Information Technology in VNUHCM-University of Science
-* Computer and Software Security
-* Cryptography and application
-* Mobile Development
-* Communication Management
-* Software Design
-* Software Requirements Specification 
-* Software Testing 
-* Software Engineering
-* Software Architecture
-* Scientific Research Methodologies
-* Technical Writing
-* Java Application Development
-* Introduction to AI
-
-I am a founder and manager of the [Computer Security Club - HCMUS](https://www.facebook.com/hcmus.compsec.club)
-# Academic Awards and Prizes, Certification
-* Computer Hacking Forensic Investigator-CHFI certificate by EC-Council 
-* Eiffel Excellent Schlarship for Engineering Student.
-* Top 1/500 students of the Regular Program (intake 2012).
-* Certificate: Rank 1st Graduation Regular Program (intake 2012).
-* Certificate of Merit of Excellence graduation in Software Engineering - University of Science.
-* Special prize of "Master Key" Contest - Ho Chi Minh City.
-* Gold Medal of "Designing - Manufacturing - Application" Contest – Ho Chi Minh City
-* Second Prize in National Competition for Innovation of Students XVIII - Euréka.
-* Consolation prize of 25th Young Information Technology Contest – Ho Chi Minh City.
-* Studio 60 Scholarship.
-* ATHENA "White Hat Hacker" Training Scholarship
-* Sunflower Mission Engineering and Technology Scholarship
-* CSC Vietnam Scholarship
+I am believing myself is a hard-working and discipline in general. With my passion abour Cyber Security, I believed that I can use my skills to tackle real-world security scenarios.
 
 # Experiences
-* Security Consultant, part time job at the InspireLab, Vietnam.
-* Security Consultant, part time job at KiteMetric, Vietnam.
-* Memory Forensics Internship at EURECOM, France.
-* Android Developement Internship at NEC, Vietnam.
+High school tutor (10/2020 – 02/2021)
+* Teaching English and Math.
+* Create English and Math tests for all students.
 
-# Publications
+# Awards and certification
+* Top 10 team in HCMUS CTF 2022, a competition organized by VNU-HCM University of Science (2022).
+* Bronze Medal in Ho Chi Minh Mathematical Olympiad 30/4 for Grade 10 (2018).
 
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/306/0533.bib&jsonp=1"></script>
